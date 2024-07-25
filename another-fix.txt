@@ -1,3 +1,4 @@
 this is bug-fx file another file
 hello hi
 hi 
+commiting 
